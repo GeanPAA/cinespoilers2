@@ -1,6 +1,6 @@
 # 🎬 CineSpoilers2
 
-Aplicación web desarrollada con React para explorar películas de forma interactiva.
+Aplicación web desarrollada con React para explorar películas (prueba).
 
 ---
 
