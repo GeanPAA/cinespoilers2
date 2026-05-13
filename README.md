@@ -40,3 +40,5 @@ Aplicación web desarrollada con React para explorar películas (prueba).
 ## 👨‍💻 Autor
 
 **Gean Pierre Ayala Andia**
+
+Pdst: olvidala ps
