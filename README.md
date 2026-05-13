@@ -21,6 +21,10 @@ Aplicación web desarrollada con React para explorar películas de forma interac
 ### Captura 4
 
 ![Evidencia 4](./docs/evidencia-4.png)
+
+### Captura 5
+
+![Evidencia 4](./docs/evidencia-5.png)
 ---
 
 ## 🛠️ Tecnologías
